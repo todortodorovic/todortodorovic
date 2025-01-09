@@ -1,4 +1,8 @@
+## Github Stats  
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=todortodorovic&show_icons=true&locale=en" alt="todortodorovic" width=45% />
+</div> 
 <!--
 **todortodorovic/todortodorovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
